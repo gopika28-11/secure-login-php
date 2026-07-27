@@ -24,5 +24,4 @@ systems skip this step entirely.
 Database credentials in `db.php` are hardcoded for local demo purposes only. In a production 
 environment, these would be stored as environment variables rather than in source code.
 ## Demo
-*(Add your screenshot here showing the "Account locked" message after 5 failed attempts, 
-and the login_attempts table showing the logged attack)*
+<img width="1328" height="630" alt="image" src="https://github.com/user-attachments/assets/83099b31-2f78-4a5f-9f0c-f3d83e1b0398" />
